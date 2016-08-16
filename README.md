@@ -1,2 +1,2 @@
 # bookoo.business
-Bookoo Business Network Homepage
+Bookoo Business Network website & member area status https://bookoo.business
